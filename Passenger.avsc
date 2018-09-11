@@ -1,0 +1,61 @@
+{
+  "type" : "record",
+  "name" : "Passenger",
+  "namespace" : "com.salesforce.hw.tpo",
+  "fields" : [ {
+    "name" : "blue_ca_1",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_2",
+    "type" : [ "double", "null" ],
+    "default": 0
+  }, {
+    "name" : "blue_ca_3",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_4",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_5",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_6",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_7",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_8",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_9",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_10",
+    "type" : [ "double", "null" ]
+  }, {
+    "name" : "blue_ca_11",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_12",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_13",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_14",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_15",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_16",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "blue_ca_17",
+    "type" : [ "int", "null" ]
+  }, {
+    "name" : "outcome",
+    "type" : [ "int", "null" ]
+  } ]
+}
